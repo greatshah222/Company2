@@ -146,9 +146,9 @@
             <h3 class="w3l-title"><span>O</span>ur <span>G</span>allery</h3>
             <div class="w3layouts_gallery_grids">
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/2.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/2.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/2.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/2.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -156,9 +156,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/3.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/3.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/3.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/3.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -166,9 +166,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/5.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/5.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/5.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/5.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -176,9 +176,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/6.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/6.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/6.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/6.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -186,9 +186,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/4.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/4.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/4.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/4.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -196,9 +196,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/7.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/7.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/7.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/7.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -206,9 +206,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/8.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/8.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/8.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/8.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -216,9 +216,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/9.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/9.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/9.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/9.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -226,9 +226,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-sm-4 col-xs-4 w3layouts_gallery_grid">
-                    <a href="images/10.jpg" class="lsb-preview" data-lsb-group="header">
+                    <a href="{{asset('dist/images/10.jpg')}}" class="lsb-preview" data-lsb-group="header">
                         <div class="w3layouts_news_grid">
-                            <img src="images/10.jpg" alt=" " class="img-responsive">
+                            <img src="{{asset('dist/images/10.jpg')}}" alt=" " class="img-responsive">
                             <div class="w3layouts_news_grid_pos">
                                 <div class="wthree_text"><h3>Handout</h3></div>
                             </div>
@@ -247,7 +247,7 @@
             <div class="w3ls_news_grids w3_agileits_team_grids">
                 <div class="col-md-3 col-sm-3 w3_agileits_team_grid">
                     <div class="w3layouts_news_grid">
-                        <img src="images/t1.jpg" alt=" " class="img-responsive" />
+                        <img src="{{asset('dist/images/t1.jpg')}}" alt=" " class="img-responsive" />
                         <div class="w3layouts_news_grid_pos">
                             <div class="wthree_text agileinfo_about_text">
                                 <ul class="agileits_social_list">
@@ -263,7 +263,7 @@
                 </div>
                 <div class="col-md-3 col-sm-3 w3_agileits_team_grid">
                     <div class="w3layouts_news_grid">
-                        <img src="images/t2.jpg" alt=" " class="img-responsive" />
+                        <img src="{{asset('dist/images/t2.jpg')}}" alt=" " class="img-responsive" />
                         <div class="w3layouts_news_grid_pos">
                             <div class="wthree_text agileinfo_about_text">
                                 <ul class="agileits_social_list">
@@ -279,7 +279,7 @@
                 </div>
                 <div class="col-md-3 col-sm-3 w3_agileits_team_grid">
                     <div class="w3layouts_news_grid">
-                        <img src="images/t3.jpg" alt=" " class="img-responsive" />
+                        <img src="{{asset('dist/images/t3.jpg')}}" alt=" " class="img-responsive" />
                         <div class="w3layouts_news_grid_pos">
                             <div class="wthree_text agileinfo_about_text">
                                 <ul class="agileits_social_list">
@@ -295,7 +295,7 @@
                 </div>
                 <div class="col-md-3 col-sm-3 w3_agileits_team_grid">
                     <div class="w3layouts_news_grid">
-                        <img src="images/t4.jpg" alt=" " class="img-responsive" />
+                        <img src="{{asset('dist/images/t4.jpg')}}" alt=" " class="img-responsive" />
                         <div class="w3layouts_news_grid_pos">
                             <div class="wthree_text agileinfo_about_text">
                                 <ul class="agileits_social_list">
@@ -354,22 +354,22 @@
                 <div class="col-md-3 agileinfo_footer_grid f1">
                     <h4>Instagram Posts</h4>
                     <div class="agileinfo_footer_grid1">
-                        <a href="#"><img src="images/fo1.jpg" alt=" " class="img-responsive"></a>
+                        <a href="#"><img src="{{asset('dist/images/fo1.jpg')}}" alt=" " class="img-responsive"></a>
                     </div>
                     <div class="agileinfo_footer_grid1">
-                        <a href="#"><img src="images/fo2.jpg" alt=" " class="img-responsive"></a>
+                        <a href="#"><img src="{{asset('dist/images/fo2.jpg')}}" alt=" " class="img-responsive"></a>
                     </div>
                     <div class="agileinfo_footer_grid1">
-                        <a href="#"><img src="images/fo3.jpg" alt=" " class="img-responsive"></a>
+                        <a href="#"><img src="{{asset('dist/images/fo3.jpg')}}" alt=" " class="img-responsive"></a>
                     </div>
                     <div class="agileinfo_footer_grid1">
-                        <a href="#"><img src="images/fo4.jpg" alt=" " class="img-responsive"></a>
+                        <a href="#"><img src="{{asset('dist/images/fo4.jpg')}}" alt=" " class="img-responsive"></a>
                     </div>
                     <div class="agileinfo_footer_grid1">
-                        <a href="#"><img src="images/fo5.jpg" alt=" " class="img-responsive"></a>
+                        <a href="#"><img src="{{asset('dist/images/fo5.jpg')}}" alt=" " class="img-responsive"></a>
                     </div>
                     <div class="agileinfo_footer_grid1">
-                        <a href="#"><img src="images/fo6.jpg" alt=" " class="img-responsive"></a>
+                        <a href="#"><img src="{{asset('dist/images/fo6.jpg')}}" alt=" " class="img-responsive"></a>
                     </div>
                     <div class="clearfix"> </div>
                 </div>

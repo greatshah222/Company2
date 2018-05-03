@@ -129,7 +129,7 @@
                 </div>
                 <div class="modal-body">
                     <div class="col-lg-6 col-md-6 col-sm-12">
-                        <img class="img-responsive team-agile" src="images/model.jpg" alt="">
+                        <img class="img-responsive team-agile" src="{{asset('dist/images/model.jpg')}}" alt="">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum interdum aliquet. Nam eleifend ac augue in aliquet. Maecenas ac molestie mi. Nam tincidunt pretium dolor, eu placerat elit. Duis nec luctus dolor. Ut a diam metus. Aenean fringilla purus enim, non pharetra eros blandit in. Suspendisse tellus quam, vestibulum vel urna vitae, sagittis consectetur dui. </p>
@@ -175,22 +175,22 @@
         <div class="col-md-3 agileinfo_footer_grid f1">
             <h4>Instagram Posts</h4>
             <div class="agileinfo_footer_grid1">
-                <a href="#"><img src="images/fo1.jpg" alt=" " class="img-responsive"></a>
+                <a href="#"><img src="{{asset('images/fo1.jpg')}}" alt=" " class="img-responsive"></a>
             </div>
             <div class="agileinfo_footer_grid1">
-                <a href="#"><img src="images/fo2.jpg" alt=" " class="img-responsive"></a>
+                <a href="#"><img src="{{asset('images/fo2.jpg')}}" alt=" " class="img-responsive"></a>
             </div>
             <div class="agileinfo_footer_grid1">
-                <a href="#"><img src="images/fo3.jpg" alt=" " class="img-responsive"></a>
+                <a href="#"><img src="{{asset('images/fo3.jpg')}}" alt=" " class="img-responsive"></a>
             </div>
             <div class="agileinfo_footer_grid1">
-                <a href="#"><img src="images/fo4.jpg" alt=" " class="img-responsive"></a>
+                <a href="#"><img src="{{asset('images/fo4.jpg')}}" alt=" " class="img-responsive"></a>
             </div>
             <div class="agileinfo_footer_grid1">
-                <a href="#"><img src="images/fo5.jpg" alt=" " class="img-responsive"></a>
+                <a href="#"><img src="{{asset('images/fo5.jpg')}}" alt=" " class="img-responsive"></a>
             </div>
             <div class="agileinfo_footer_grid1">
-                <a href="#"><img src="images/fo6.jpg" alt=" " class="img-responsive"></a>
+                <a href="#"><img src="{{asset('images/fo6.jpg')}}" alt=" " class="img-responsive"></a>
             </div>
             <div class="clearfix"> </div>
         </div>
